@@ -13,11 +13,12 @@ before you can launch the app.
 **Running the server**
 
 Type the following in command prompt :
-```
-- cd into the project directory
-- meteor
-```
+
+- ```cd into the project directory```
+- ```meteor```
+
 
 The website will now work on this url : http://localhost:3000
+
 
 
