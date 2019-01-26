@@ -20,4 +20,7 @@ Type the following in command prompt :
 
 The website will now work on this url : http://localhost:3000
 
+Some Screenshots :
+![](https://github.com/meetshah06/Chatroom/blob/master/Capture.PNG) &nbsp;
 
+![](https://github.com/meetshah06/Chatroom/blob/master/Capture1.PNG)
