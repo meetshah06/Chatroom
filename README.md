@@ -21,6 +21,3 @@ Type the following in command prompt :
 The website will now work on this url : http://localhost:3000
 
 
-
-[eg1] (https://github.com/meetshah06/Chatroom/blob/master/Capture.PNG)
-[eg2] (https://github.com/meetshah06/Chatroom/blob/master/Capture1.PNG)
